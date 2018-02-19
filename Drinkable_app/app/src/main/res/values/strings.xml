@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Drinkable</string>
+    <string name="choices_activity_title">Choose your ingredients</string>
+    <string name="welcome">Need a drink??</string>
+    <string name="cocktail_list_title">Cocktails</string>
+    <string name="new_cocktail">Cocktail Name</string>
+    <string name="example_cocktail">Paloma</string>
+    <string name="new_measurements">Cocktail Measurements</string>
+    <string name="example_measurements">50ml Tequila, 50 ml Grape Fruit Juice,</string>
+    <string name="cocktail_adding_title">Add a Cocktail</string>
+    <string name="add_cocktail">Add Cocktail</string>
+    <string name="save_button">Save</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="cocktail_info_title">Cocktail Information</string>
+    <string name="example_description">Add ingredients to glass and stir over ice.</string>
+    <string name="ingred_added">Add Ingredient to Cocktail</string>
+    <string name="cocktail_add_ingred_title">Add Ingredients to Cocktail</string>
+    <string name="cocktail_delete_title">Delete Cocktail</string>
+    <string name="delete_cocktail">Delete Cocktail</string>
+    <string name="select_dropdown">Select from the dropdown menu below.</string>
+    <string name="about">About</string>
+    <string name="cocktail_about_title">About This App</string>
+    <string name="about_information">This application was created as part of project involving Java, SQLite and Android.</string>
+    <string name="app_info">This app allows you to select an ingredient to filter a list of cocktails based on that ingredient. Then by selecting items from the list, you can learn how to make the cocktail.</string>
+    <string name="created_by">Created by: Kynan Song</string>
+    <string name="recommended_brand">Recommended Spirits</string>
+    <string name="where_to_find">Where can I find this?</string>
+    <string name="cocktail_recommended_title">Recommended Brands</string>
+    <string name="title_activity_bar_locations">Map</string>
+    <string name="AppTitle">D R I N K A B L E</string>
+</resources>
